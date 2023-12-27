@@ -6,3 +6,7 @@
 
 Video Demo:
 
+
+
+https://github.com/adhidsw/Automatic-Watering-System/assets/154961642/7df993ed-abe8-4891-8ce5-be06795e29f3
+

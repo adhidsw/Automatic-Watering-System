@@ -5,4 +5,4 @@
 5.	Babel Widiawan		(1102204565)
 
 Video Demo:
-https://github.com/adhidsw/Automatic-Watering-System/assets/154961642/89c98bcb-a580-4f9c-b90b-5746481ab8ef
+https://github.com/adhidsw/Automatic-Watering-System/assets/154961642/e571c4f2-e7b8-4707-99d9-42e0fd53292a
